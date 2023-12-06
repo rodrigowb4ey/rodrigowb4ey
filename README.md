@@ -17,6 +17,7 @@ I have worked with the following languages, frameworks, concepts and technologie
 - Python, Flask, Django & Django REST Framework
 - Relational Databases (MySQL, PostgreSQL)
 - Non-Relational Databases (MongoDB)
+- REST and GraphQL API's
 - Git (GitHub, Gitea, GitLab) + branching strategies such as 'Git Flow'
 - Docker & Docker-Compose
 - Scrum, Ágile
